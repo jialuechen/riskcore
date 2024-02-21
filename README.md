@@ -1,5 +1,5 @@
 <div align=center>
-<img src="assets/riskcore.png" width="45%" loc>
+<img src="assets/riskcore.png" width="30%" loc>
 </div>
 
 # RiskCore - Machine Learning in Risk Management
