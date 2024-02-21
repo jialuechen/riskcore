@@ -6,8 +6,8 @@
 
 # RiskCore - Machine Learning in Risk Management
 
-<div align=center>
+</div align=center>
+This is a Python library desigen for modern financial risk management utilizing machine learning. It covers market risk, credit risk, liquidity risk and operation risk.
 
-Python
 ## License
 RiskCore is distributed under Apache-2.0
